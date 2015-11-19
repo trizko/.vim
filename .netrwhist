@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/trizko/.vim'
+let g:netrw_dirhist_2='/Users/trizko'
+let g:netrw_dirhist_3='/Users/trizko/Dropbox/repos/haskell/cis194/1week'
+let g:netrw_dirhist_4='/Users/trizko/Dropbox/repos/javascript/audio-stripper/server'
